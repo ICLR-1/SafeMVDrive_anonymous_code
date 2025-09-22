@@ -30,9 +30,7 @@
 
 <p align="center">
   <div align="center">Adversarial vehicle suddenly cuts in; ego vehicle slightly steers right to avoid.</div>
-  <img src="assets/adv_gif/01-ezgif.com-video-to-gif-converter.gif" width="100%" style="max-width: 100%; height: auto;" />
-  <div align="center">Rear adversarial vehicle suddenly accelerates; ego vehicle also speeds up to evade.</div>
-  <img src="assets/adv_gif/02-ezgif.com-video-to-gif-converter.gif" width="100%" style="max-width: 100%; height: auto;" />
+  <img src="assets/adv_gif/01-ezgif.com-video-to-gif-converter.gif" width="100%" style="max-width: 100%; height: auto;" /> -->
   <div align="center">Rear adversarial vehicle suddenly accelerates; ego vehicle changes lane left to evade.</div>
   <img src="assets/adv_gif/03-ezgif.com-video-to-gif-converter.gif" width="100%" style="max-width: 100%; height: auto;" />
   <div align="center">Front adversarial vehicle suddenly slows down; ego vehicle changes lane and decelerates to avoid.</div>
