@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-  <a href="https://anonymous-12315.github.io/SafeMVDrive_Anonymous/"><img alt='Project Page' src="https://img.shields.io/badge/Webpage-SafeMVDrive-green"></a>
+  <a href="https://iclr-1.github.io/SMD/"><img alt='Project Page' src="https://img.shields.io/badge/Webpage-SafeMVDrive-green"></a>
 </div>
 <br>
 </div>
